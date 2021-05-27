@@ -1,4 +1,4 @@
-# notes source code
+# Notes source code
 Notes source code incase anyone wants to play around with the code for themselves.
 Notes is video game created by me using GameMaker Studio.
 
